@@ -5,3 +5,6 @@ Develop Period : 1 Month
 
 Released on Play Store : 
 https://play.google.com/store/apps/details?id=com.JakBoStudio.KiteWarFlying
+
+Itch.IO :
+https://play.google.com/store/apps/details?id=com.JakBoStudio.KiteWarFlying
